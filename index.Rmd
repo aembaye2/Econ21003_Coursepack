@@ -52,7 +52,7 @@ In this chapter, you will be able to answer the following questions:
 	
 ## The principles of ***HOW PEOPLE  MAKE DECISIONS***
 
-![](imgs/fig1a){fig.width=100%}
+![](images/lesson01/fig1a.JPG){height=60%}
 
 
 ## Principle \#1. Because Resources are scarce, People Face Trade-offs 
@@ -131,7 +131,7 @@ Suppose you won a  ticket from a Radio station to see a jazz band perform at an 
 
 
 ## The principles of HOW PEOPLE INTERACT
-![](imgs/fig2){fig.width=100%}
+![](images/lesson01/fig2.JPG){height=60%}
 
 A doctor and a Barber
 
@@ -212,7 +212,7 @@ c. Patent laws, which allow drug companies to charge high prices for life-saving
 
 
 ## The principles of HOW THE ECONOMY AS A WHOLE WORKS 
-![](imgs/fig3)
+![](images/lesson01/fig3.JPG)
 
 
 ## Principle 8: A Country's Standard of Living Depends on Its Ability to Produce Goods \& Services 
