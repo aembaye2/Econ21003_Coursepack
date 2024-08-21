@@ -52,7 +52,7 @@ In this chapter, you will be able to answer the following questions:
 	
 ## The principles of ***HOW PEOPLE  MAKE DECISIONS***
 
-![](images/lesson01/fig1a.JPG){height=60%}
+![](images/lesson01/fig1a.jpg){height=60%}
 
 
 ## Principle \#1. Because Resources are scarce, People Face Trade-offs 
@@ -131,7 +131,7 @@ Suppose you won a  ticket from a Radio station to see a jazz band perform at an 
 
 
 ## The principles of HOW PEOPLE INTERACT
-![](images/lesson01/fig2.JPG){height=60%}
+![](images/lesson01/fig2.jpg){height=60%}
 
 A doctor and a Barber
 
@@ -186,57 +186,46 @@ The invisible hand works through the price system:
 
 + In such cases, well designed public policies may promote efficiency
 
-
 + Govt may alter market outcome to \textbf{promote equity}
 
 + If the market's distribution of economic well-being is not desirable, tax or welfare policies can change how the economic *pie* is divided. 
 
 ## Discussion Questions  $\triangleleft$ 
 
-In each of the following situations, what is the government's role?  Does the government's intervention improve the outcome?
-
+In each of the following situations, what is the government's role?  Does the government's intervention improve the outcome? 
 a. Public schools for K-12
-
 b. Public highways
-
 c. Patent laws, which allow drug companies to charge high prices for life-saving drugs
-
 
 ## Two Broad Branches of Economics 
 
 + \textbf{Microeconomics:} branch of economics concerned with how people make decisions and how these decisions interact.
-  - e.g., determination of price, employment or output in a particular market or industry.
+ - e.g., determination of price, employment or output in a particular market or industry.
 
 + \textbf{Macroeconomics:} branch of economics concerned with the overall economy. 
-  - e.g., determination of national income, economic growth, recessions, inflation.
+ - e.g., determination of national income, economic growth, recessions, inflation.
 
 
 ## The principles of HOW THE ECONOMY AS A WHOLE WORKS 
-![](images/lesson01/fig3.JPG)
+![](images/lesson01/fig3.jpg){height=50%}
 
 
 ## Principle 8: A Country's Standard of Living Depends on Its Ability to Produce Goods \& Services 
 
-+ The most important determinant of living standards:  \textbf{productivity}, the amount of goods and services produced per unit of labor.   
-
++ The most important determinant of living standards:  \textbf{productivity}, the amount of goods and services produced per unit of labor.
 + Productivity depends on the equipment, skills, and technology available to workers.
-
 + Other factors (e.g., labor unions, competition from abroad) have far less impact on living standards.
-
 
 ## Principle 9: Prices Rise When the Government Prints Too Much Money 
 
-+ Inflation:  increase in the general level of prices.  
-
-+ In the long run, inflation is almost always caused by excessive growth in the quantity of money, which causes the value of money to fall.  
-
-+ The faster the govt creates money, the greater the inflation rate.
++ Inflation:  increase in the general level of prices. 
++ In the long run, inflation is almost always caused by excessive growth in the quantity of money, which causes the value of money to fall. 
++ The faster the govt creates money, the greater the inflation rate. 
 
 ## \textbf{Principle 10:} Society Faces a Short-run Tradeoff Between Inflation and Unemployment
 
-+ In the short-run (1–2 years), many economic policies push inflation and unemployment in opposite directions.  
-
-+ Other factors can make this tradeoff more or less favorable, but the tradeoff is always present.  
++ In the short-run (1–2 years), many economic policies push inflation and unemployment in opposite directions. 
++ Other factors can make this tradeoff more or less favorable, but the tradeoff is always present. 
 
 ## SUMMARY  $\triangleleft$
 1. Because Resources are scarce, People Face Trade-offs
