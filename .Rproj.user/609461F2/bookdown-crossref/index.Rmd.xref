@@ -1,7 +1,5 @@
-h1:url-your-book-url-like-httpsbookdown.orgyihuibookdown url: your book url like https://bookdown.org/yihui/bookdown
-h1:cover-image-path-to-the-social-sharing-image-like-imagescover.jpg cover-image: path to the social sharing image like images/cover.jpg
-h1:about About
-h2:usage Usage
-h2:render-book Render book
-h2:preview-book Preview book
+h1:output output:
+h1:bookdowntufte_html_book bookdown::tufte_html_book:
+h1:toc-true toc: true
+h1:ten-principles-of-economics Ten Principles of Economics
 
