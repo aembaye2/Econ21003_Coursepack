@@ -1,7 +1,6 @@
 fig:nice-fig
 tab:nice-tab
 eq:binom
-thm:tri
 ten-principles-of-economics
 cross
 chapters-and-sub-chapters
