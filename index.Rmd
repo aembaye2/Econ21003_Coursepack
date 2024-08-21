@@ -3,7 +3,15 @@ title: "Econ 21003 Coursepack"
 author: "A. Embaye"
 date: "`r format(Sys.time(), '%B %d, %Y')`" #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output:
+  bookdown::gitbook:
+    toc_depth: 1
+  bookdown::pdf_book:
+    toc_depth: 1
+  bookdown::epub_book:
+    toc_depth: 1
+# output: 
+#   bookdown::gitbook
 # output:
 #   bookdown::tufte_html_book:
 #     toc: true
@@ -52,7 +60,7 @@ In this chapter, you will be able to answer the following questions:
 	
 ## The principles of ***HOW PEOPLE  MAKE DECISIONS***
 
-![](images/lesson01/fig1a.jpg){height=60%}
+![](images/lesson01/fig1a.jpg){height=99%}
 
 
 ## Principle \#1. Because Resources are scarce, People Face Trade-offs 
@@ -66,9 +74,9 @@ All decisions involve tradeoffs. Examples:
         
 + Society faces an important trade-off between \textbf{\color{blue} efficiency vs. equity (equality) }:
 
-  - \textbf{Efficiency:}  when society gets the most from its scarce resources
+ - ***Efficiency***:  when society gets the most from its scarce resources
 
-  - \textbf{Equity:}  when prosperity is distributed uniformly or *fairly* among society's members
+ - ***Equity***:  when prosperity is distributed uniformly or *fairly* among society's members
 
 + Tradeoff:  To achieve greater equality, society could redistribute income from wealthy to poor. But this reduces incentive to work and produce, shrinks the size of the economic *pie.* 
 
@@ -94,9 +102,9 @@ What is the opportunity cost of
 + Economists assume that people are rational since they systematically and purposefully do the best they can to achieve their objectives.
 
 + Or make decisions by evaluating marginal cost and marginal benefits; 
-  - \textbf{Marginal Changes} – incremental adjustments to an existing plan.
+  - ***Marginal Changes*** –incremental adjustments to an existing plan.
 
-+ Ignore \textbf{Sunk Cost} – cost already incurred and cannot be recovered.
++ Ignore ***Sunk Cost***– cost already incurred and cannot be recovered.
 
 Examples:  
 
@@ -132,7 +140,7 @@ Suppose you won a  ticket from a Radio station to see a jazz band perform at an 
 
 ## The principles of HOW PEOPLE INTERACT
 
-![](images/lesson01/fig2.jpg){height=60%}
+![](images/lesson01/fig2.jpg){height=99%}
 
 A doctor and a Barber
 
@@ -208,7 +216,8 @@ c. Patent laws, which allow drug companies to charge high prices for life-saving
 
 
 ## The principles of HOW THE ECONOMY AS A WHOLE WORKS 
-![](images/lesson01/fig3.jpg){height=50%}
+
+![](images/lesson01/fig3.jpg){height=99%}
 
 
 ## Principle 8: A Country's Standard of Living Depends on Its Ability to Produce Goods \& Services 
@@ -223,12 +232,13 @@ c. Patent laws, which allow drug companies to charge high prices for life-saving
 + In the long run, inflation is almost always caused by excessive growth in the quantity of money, which causes the value of money to fall. 
 + The faster the govt creates money, the greater the inflation rate. 
 
-## \textbf{Principle 10:} Society Faces a Short-run Tradeoff Between Inflation and Unemployment
+## Principle 10: Society Faces a Short-run Tradeoff Between Inflation and Unemployment
 
 + In the short-run (1–2 years), many economic policies push inflation and unemployment in opposite directions. 
 + Other factors can make this tradeoff more or less favorable, but the tradeoff is always present. 
 
 ## SUMMARY  $\triangleleft$
+
 1. Because Resources are scarce, People Face Trade-offs
 2. The Cost of Something Is What You Give Up to Get It
 3. Rational People Think at the Margin
