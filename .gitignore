@@ -1,0 +1,7 @@
+# ignore the following files (commented ones will not be ignored)!
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+_bookdown_files
+01-intro.Rmd
