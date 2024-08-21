@@ -203,13 +203,13 @@ Suppose the U.S. exports 2000 tons of wheat to Japan, and imports 280 computers 
 
 			
 ## Japan's production and Consumption With Trade  $\triangleleft$
-images/lesson02/part2/page20.PNG){height=75%}
+![](images/lesson02/part2/page20.PNG){height=75%}
 
 
 
 ##  Trade Makes Both Countries Better Off  $\triangleleft$
 
-images/lesson02/part2/page21.PNG){height=75%}
+![](images/lesson02/part2/page21.PNG){height=75%}
 
 \textcolor{red}{\textbf{Comparative Advantage:}}
 

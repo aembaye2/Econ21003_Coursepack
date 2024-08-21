@@ -131,6 +131,7 @@ Suppose you won a  ticket from a Radio station to see a jazz band perform at an 
 
 
 ## The principles of HOW PEOPLE INTERACT
+
 ![](images/lesson01/fig2.jpg){height=60%}
 
 A doctor and a Barber
