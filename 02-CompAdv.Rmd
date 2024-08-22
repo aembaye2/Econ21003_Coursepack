@@ -200,11 +200,9 @@ Suppose the U.S. exports 2000 tons of wheat to Japan, and imports 280 computers 
 
 ![](images/lesson02/part2/page19.PNG){height=75%}
 
-
 			
 ## Japan's production and Consumption With Trade  $\triangleleft$
 ![](images/lesson02/part2/page20.PNG){height=75%}
-
 
 
 ##  Trade Makes Both Countries Better Off  $\triangleleft$
@@ -272,7 +270,7 @@ b. Which country has a comparative advantage in the production of wine?
 
 ## *Active Learning 2: Absolute \& comparative advantage* $\triangleleft$
 
-images/lesson02/part2/page23a.PNG){height=75%}
+![](images/lesson02/part2/page23a.PNG){height=75%}
 
 \small
 
@@ -302,7 +300,7 @@ c. Suppose the terms of trade were 1 jacket to 2 ties, show how each person is m
 
 Assume that England and Spain can switch between producing cheese and producing bread at a constant rate.
 
-images/lesson02/part2/img01_Engl.PNG){height=100%}
+![](images/lesson02/part2/img01_Engl.PNG){height=100%}
 
 a. Which country has absolute advantage in Cheese? in bread?
 
@@ -398,7 +396,7 @@ Yet, there are many propositions about which most economists agree.
 
 + As scientists, economists try to explain the world using models with appropriate assumptions.  
 
-+ A sample models is the Production Possibilities Frontier and its useful application in explaining trade and interdependence. 
++ A sample model is the Production Possibilities Frontier and its useful application in explaining trade and interdependence. 
 
 + As policy advisers, economists offer advice on how to improve the world. 
 
